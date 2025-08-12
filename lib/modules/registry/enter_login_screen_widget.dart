@@ -30,7 +30,7 @@ class _EnterLoginScreenWidgetState extends State<EnterLoginScreenWidget> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               /* Padding(
-                padding: EdgeInsetsDirectional.fromSTEB(0, 0, 0, 40),
+                padding: EdgeInsetsDirectional.fromSTEB(0, 0, 0, 50),
                 child: Image.asset(
                   'assets/images/icon_create_ad.PNG',
                   width: 100,
