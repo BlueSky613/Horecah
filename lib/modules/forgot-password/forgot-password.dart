@@ -54,7 +54,7 @@ class ForgotPasswordPage extends StatelessWidget {
                           : "¿Haz olvidado tu contraseña?",
                   color: Colors.black),
               SizedBox(
-                height: 15,
+                height: 20,
               ),
               TitlePrincipalAds(
                 local.substring(0, 3) == "it_"
